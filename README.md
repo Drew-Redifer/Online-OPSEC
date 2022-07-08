@@ -1,8 +1,8 @@
-# LandChad.net ([https://landchad.net](https://landchad.net))
+# Online-OPSEC.net ([https://online-opsec.net](https://online-opsec.net))
 
-A site dedicated to turn web peasants into Internet LandChads.
+A site dedicated to online privacy.
 
-Simple step-by-step text and image-based tutorials for creating websites, email servers, chat servers, server administration and everything else.
+Simple step-by-step text and image-based tutorials for learning basic Online Operational Security.
 
 Suggestions welcome.
 
